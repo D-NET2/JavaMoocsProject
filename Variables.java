@@ -7,7 +7,7 @@ public class Variables {
         double baconWeight = 5.5;
         String tractor = "There is none";
 
-        
+        //THESE VARIABLES BELOW CHANGE THE VARIABLES VALUES
         chickenCount = 9000;
         baconWeight = 0.1;
         tractor = "Zetor";
