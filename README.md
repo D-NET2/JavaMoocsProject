@@ -1,5 +1,5 @@
 # JavaMoocsProject
-#part 1
+#This only part 1 of the course
 
 ---
 
